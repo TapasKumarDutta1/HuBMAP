@@ -29,7 +29,7 @@ portuguese|multilingual|||
 
  number of repetation|auc(public)|auc(private)
  |---|--- | ---
- ||0.952 | 0.921
+ || | 
  
  
  
