@@ -29,3 +29,7 @@ portuguese|multilingual|0.9360|0.9361|0
  
  ### Correrelaion among predictions of best models.
 ![alt text]()
+
+
+## References
+- https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/160862
