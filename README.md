@@ -23,7 +23,7 @@ portuguese|multilingual|0.9360|0.9361|0
 
  number of repetation|auc(public)|auc(private)
  |---|--- | ---
- || | 
+ 0|0.9438|0.9439 
  
  
  
