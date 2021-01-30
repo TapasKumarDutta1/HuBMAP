@@ -8,20 +8,14 @@ Train multilingual model xlmrobert on training data (originally english converte
 
 ## Results
 
-language| type of model | auc(public)|auc(private)|number of repetation
+language| type of model | auc(private)|auc(public)|number of repetation
 --- | --- | ---| ---|---
-spanish|monolingual|||
-french|monolingual|||
-italian|monolingual|||
-russian|monolingual|||
-turkish|monolingual|||
-portuguese|multilingual|||
-spanish|multilingual|||
-french|multilingual|||
-italian|multilingual|||
-russian|multilingual|||
-turkish|multilingual|||
-portuguese|multilingual|||
+spanish|multilingual|0.9393|0.9389|0
+french|multilingual|0.9369|0.9359|0
+italian|multilingual|0.9374|0.9387|0
+russian|multilingual|0.9353|0.9369|0
+turkish|multilingual|0.9386|0.9390|0
+portuguese|multilingual|0.9360|0.9361|0
 
 
 
