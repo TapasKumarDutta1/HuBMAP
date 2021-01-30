@@ -33,3 +33,4 @@ portuguese|multilingual|0.9360|0.9361|0
 
 ## References
 - https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/160862
+- https://huggingface.co/models
