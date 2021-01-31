@@ -16,16 +16,23 @@ italian|multilingual|0.9374|0.9387|0
 russian|multilingual|0.9353|0.9369|0
 turkish|multilingual|0.9386|0.9390|0
 portuguese|multilingual|0.9360|0.9361|0
+monolingual|all|0.9250|0.9275|0
 
 
 
-## Ensemble Results
+## Ensemble multilingual Results
 
  number of repetation|auc(public)|auc(private)
  |---|--- | ---
  0|0.9438|0.9439 
  
  
+ 
+## Ensemble multilingual and monolingual Results
+
+ number of repetation|auc(public)|auc(private)
+ |---|--- | ---
+ 0|0.9439|0.9447
  
  ### Correrelaion among predictions of best models.
 ![alt text]()
