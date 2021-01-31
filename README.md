@@ -22,7 +22,7 @@ monolingual|all|0.9250|0.9275|0
 
 ## Ensemble multilingual Results
 
- number of repetation|auc(public)|auc(private)
+ number of repetation|auc(private)|auc(public)
  |---|--- | ---
  0|0.9438|0.9439 
  
@@ -30,7 +30,7 @@ monolingual|all|0.9250|0.9275|0
  
 ## Ensemble multilingual and monolingual Results
 
- number of repetation|auc(public)|auc(private)
+ number of repetation|auc(private)|auc(public)
  |---|--- | ---
  0|0.9439|0.9447
  
