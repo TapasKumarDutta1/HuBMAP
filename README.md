@@ -22,7 +22,7 @@ spanish|multilingual|||1
 french|multilingual|||1
 italian|multilingual|||1
 russian|multilingual|||1
-turkish|multilingual|||1
+turkish|multilingual|0||1
 portuguese|multilingual|0.9439|0.9443|1
 
 
