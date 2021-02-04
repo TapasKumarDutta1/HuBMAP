@@ -18,6 +18,13 @@ turkish|multilingual|0.9386|0.9390|0
 portuguese|multilingual|0.9360|0.9361|0
 all|monolingual|0.9250|0.9275|0
 
+spanish|multilingual|||1
+french|multilingual|||1
+italian|multilingual|||1
+russian|multilingual|||1
+turkish|multilingual|||1
+portuguese|multilingual|0.9439|0.9443|1
+
 
 
 ## Ensemble multilingual Results
