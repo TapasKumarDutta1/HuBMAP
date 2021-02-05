@@ -18,6 +18,10 @@ turkish|multilingual|0.9386|0.9390|0
 portuguese|multilingual|0.9360|0.9361|0
 all|monolingual|0.9250|0.9275|0
 portuguese|multilingual|0.9439|0.9443|1
+french|multilingual|0.9441|0.9443|1
+italian|multilingual|0.9434|0.9432|1
+spanish|multilingual|0.9426|0.9426|1
+turkish|multilingual|0.9432|0.9431|1
 
 
 
@@ -35,6 +39,7 @@ portuguese|multilingual|0.9439|0.9443|1
  number of repetation|auc(private)|auc(public)
  |---|--- | ---
  0|0.9439|0.9447
+ 1|0.9449|0.9451
  
  ### Correrelaion among predictions of best models.
 ![alt text]()
