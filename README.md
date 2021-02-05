@@ -22,15 +22,10 @@ french|multilingual|0.9441|0.9443|1
 italian|multilingual|0.9434|0.9432|1
 spanish|multilingual|0.9426|0.9426|1
 turkish|multilingual|0.9432|0.9431|1
+all|monolingual|0.9247|0.9266|1
 
 
 
-
-## Ensemble multilingual Results
-
- number of repetation|auc(private)|auc(public)
- |---|--- | ---
- 0|0.9438|0.9439 
  
  
  
@@ -40,6 +35,7 @@ turkish|multilingual|0.9432|0.9431|1
  |---|--- | ---
  0|0.9439|0.9447
  1|0.9449|0.9451
+ 2|0.9451|0.9456
  
  ### Correrelaion among predictions of best models.
 ![alt text]()
