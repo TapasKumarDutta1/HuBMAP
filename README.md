@@ -6,10 +6,10 @@ Train multilingual model xlmrobert on training data (originally english converte
  number of repetation|auc(private)|auc(public)|used
  |---|---|---|---
  0|0.9449|0.9457|multilingual
+ 0|0.9261|0.9283|monolingual
+ 0|0.9459|0.9471|monolingual+multilingual
+ 0|0.9475|0.9485|multilingual+monolingual+multilingual+monolingual+multilingual+monolingual
  
- ### Correrelaion among predictions of best models.
-![alt text]()
-
 
 ## References
 - https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/160862
