@@ -1,1 +1,1 @@
-![alt text](overview.jpg)
+![alt text](final_overview.jpg)
