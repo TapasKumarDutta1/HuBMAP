@@ -2,4 +2,8 @@
 
 ![alt text](submission_overview.jpg)
 
-Combined the samples using metadata(x, y coordinates) to get `Reconstructed Original Image`. For each sample take global information of 512 in each direction if possible else more information in the opposite direction if sample is present near the edge of the `Reconstructed Original Image` this is referenced as `Image with Global Information`. Have the model predict the segmentation mask of this image this mask will be referred as `Global Information Mask`. From this image take mask of region of interest according to metadata this is referred as `Mask of Region of Interest`. Thus global information is incorporated in prediction. Used test time augmentation and ensembling to improve performance.
+Utilizing metadata comprising x and y coordinates, the provided samples were amalgamated to generate a 'Reconstructed Original Image.' Each sample was processed to extract a contextual window of 512 units in both dimensions, unless proximity to the image boundary necessitated a larger contextual area on the opposite side. This resulting composition is denoted as the 'Image with Global Information.'
+
+A predictive model was subsequently employed to generate a segmentation mask for the 'Image with Global Information,' henceforth termed as 'Global Information Mask.' Further refinement was achieved by isolating the region of interest based on x and y coordinates in metadata, yielding the 'Mask of Region of Interest.' This strategic integration of global information substantiates the precision of the predictive outcome.
+
+The implementation also embraced advanced techniques such as test time augmentation and ensembling to enhance the model's performance, thereby exemplifying a comprehensive approach to refining predictive accuracy.
