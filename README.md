@@ -1,5 +1,7 @@
 ## Overview
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 ![alt text](/images/overview_of_submission.jpg)
  
 Utilizing metadata comprising x and y coordinates, the provided samples were amalgamated to generate a `Reconstructed Original Image`. Each sample was processed to extract a contextual window of 512 units in both dimensions, unless proximity to the image boundary necessitated a larger contextual area on the opposite side. This resulting composition is denoted as the `Image with Global Information`.
